@@ -3,7 +3,7 @@ body{
     margin: 0%  auto;
 }
 .banner{
-    background-image: url(images/donation3.jpg);
+    background-image: url(images/donation0.jpg);
     background-size: cover;
     height: 500px;
     background-repeat: no-repeat;
@@ -121,12 +121,19 @@ hr{
     color: aliceblue;
     text-decoration: none;
 }
-.updates{
-    text-align: center;
+.bonus-part input{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px   15px;
+    font-weight: 400;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    color: white;
+    border-radius: 5px;
 }
-.updates    p{
-    padding-left: 450px;
-    padding-right: 450px;
+.bonus-section{
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 30px;
 }
 .box{
     margin-top: 50px;
@@ -161,10 +168,11 @@ hr{
     color: aliceblue;
     padding-top: 10px;
     padding-bottom: 20px;
+
 }
 span{
     color: tomato;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:monospace;
 }
 
 
